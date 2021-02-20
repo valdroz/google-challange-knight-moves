@@ -5,6 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * Brute force method.
+ */
 public class Main {
 
     private final static int MAX_TRAVEL_STEP_POINTS = 8;
